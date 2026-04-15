@@ -68,7 +68,7 @@ CVForge AI is a modern, full-stack web application designed to help users analyz
 
 ### 🤖 AI Integration
 
-* OpenAI API (for analysis, rewriting, and matching)
+* Grok API (for analysis, rewriting, and matching)
 
 ---
 
