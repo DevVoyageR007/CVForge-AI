@@ -74,6 +74,10 @@ CVForge AI is a modern, full-stack web application designed to help users analyz
 
 ## 📸 Screenshots
 
+### 🏠 Home Screen & LogIn Page
+
+![Home](./screenshots/home.png)
+
 ### 🏠 Dashboard & Resume Analysis
 
 ![Dashboard](./screenshots/dashboard.png)
@@ -94,9 +98,17 @@ CVForge AI is a modern, full-stack web application designed to help users analyz
 
 ![Rewrite](./screenshots/rewrite.png)
 
+### ✍️ Compare Analysis
+
+![Compare](./screenshots/compare.png)
+
 ### 🎤 Mock Interview
 
 ![Interview](./screenshots/interview.png)
+
+### 🎤 Mock Test
+
+![Test](./screenshots/test.png)
 
 ---
 
